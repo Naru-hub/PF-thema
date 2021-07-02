@@ -26,6 +26,8 @@
 - ワンちゃんを飼っていて引っ越ししたてで土地勘がない方がお散歩場所などを探せる
 
 ## 設計書
+ワイヤーフレーム会員側
+https://app.diagrams.net/#G1qaM68_BD8T7NtSwDcwfILdiizMNMUoW6
 
 ## チャレンジ要素一覧
 
