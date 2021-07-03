@@ -1,4 +1,4 @@
-# No Dog, No Life! ワンちゃんOKな場所の情報共有サイト
+# No Dog, No Life! (ワンちゃんOKな場所の情報共有サイト)
 
 ## 概要
 
@@ -26,22 +26,21 @@
 - ワンちゃんを飼っていて引っ越ししたてで土地勘がない方がお散歩場所などを探せる
 
 ## 設計書
-UI Flows 会員側
+UI Flows 会員側  
  https://app.diagrams.net/#G12A2_K3hUHovl--lIZRebhCKY5cMcbXGO  
-UI Flows 管理者側
+UI Flows 管理者側  
  https://app.diagrams.net/#G19aldmYfbeEIjtwuZu0cs2QGP4L6oXzhQ  
-ワイヤーフレーム会員側
+ワイヤーフレーム会員側  
  https://app.diagrams.net/#G1qaM68_BD8T7NtSwDcwfILdiizMNMUoW6  
-ワイヤーフレーム管理者側
+ワイヤーフレーム管理者側  
  https://app.diagrams.net/#G1OHVu1EuKzaTLxHLYwQ4va2VcCla28LEA  
-ER図
+ER図  
  https://app.diagrams.net/#G12VL8Ry0r92MzAJx08IrReHVHCf4WA_AY  
-機能一覧
-https://docs.google.com/spreadsheets/d/1MrtOBrShOCMLyr1-SmaSzc0_QdPnpZT7dYT13yakbOs/edit?usp=sharing　　
-   
- 
-   
- 
+機能一覧  
+ https://docs.google.com/spreadsheets/d/1MrtOBrShOCMLyr1-SmaSzc0_QdPnpZT7dYT13yakbOs/edit?usp=sharing  
+テーブル定義書
+ https://docs.google.com/spreadsheets/d/1hjwA1nsiRDuKQWgGooGXi8_SIeM5hs4N0SMtLFFnab4/edit#gid=1782002835
+  
 ## チャレンジ要素一覧
 
 https://docs.google.com/spreadsheets/d/1xun-Cx3w5umzC0Hvg_1TxiT3CvfDFtFzyEZ3_OXCXac/edit#gid=0
@@ -56,5 +55,5 @@ https://docs.google.com/spreadsheets/d/1xun-Cx3w5umzC0Hvg_1TxiT3CvfDFtFzyEZ3_OXC
 
 ## 使用素材
 
-- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名と URL を明記してください。
-- 使用しない場合は、使用素材の項目を README から削除してください。
+-今後追加予定
+
