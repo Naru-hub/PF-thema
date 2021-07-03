@@ -37,7 +37,7 @@ UI Flows 管理者側
 ER図
  https://app.diagrams.net/#G12VL8Ry0r92MzAJx08IrReHVHCf4WA_AY  
  テーブル定義書
- https://www.icloud.com/numbers/0oOQ3qu6WGbYFQxk8e91DnZwQ  
+https://www.icloud.com/numbers/0oOQ3qu6WGbYFQxk8e91DnZwQ   
  
 ## チャレンジ要素一覧
 
