@@ -1,4 +1,4 @@
-# No Dog, No Life!
+# No Dog, No Life! ワンちゃんOKな場所の情報共有サイト
 
 ## 概要
 
@@ -34,7 +34,10 @@ UI Flows 管理者側
  https://app.diagrams.net/#G1qaM68_BD8T7NtSwDcwfILdiizMNMUoW6  
 ワイヤーフレーム管理者側
  https://app.diagrams.net/#G1OHVu1EuKzaTLxHLYwQ4va2VcCla28LEA  　
-
+ER図
+ https://app.diagrams.net/#G12VL8Ry0r92MzAJx08IrReHVHCf4WA_AY  
+ テーブル定義書
+ 
 ## チャレンジ要素一覧
 
 https://docs.google.com/spreadsheets/d/1xun-Cx3w5umzC0Hvg_1TxiT3CvfDFtFzyEZ3_OXCXac/edit#gid=0
