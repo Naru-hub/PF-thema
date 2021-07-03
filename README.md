@@ -36,7 +36,10 @@ UI Flows 管理者側
  https://app.diagrams.net/#G1OHVu1EuKzaTLxHLYwQ4va2VcCla28LEA  
 ER図
  https://app.diagrams.net/#G12VL8Ry0r92MzAJx08IrReHVHCf4WA_AY  
- テーブル定義書
+機能一覧
+https://docs.google.com/spreadsheets/d/1MrtOBrShOCMLyr1-SmaSzc0_QdPnpZT7dYT13yakbOs/edit?usp=sharing　　
+   
+ 
    
  
 ## チャレンジ要素一覧
