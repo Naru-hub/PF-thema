@@ -33,7 +33,7 @@ UI Flows 管理者側
 ワイヤーフレーム会員側
  https://app.diagrams.net/#G1qaM68_BD8T7NtSwDcwfILdiizMNMUoW6  
 ワイヤーフレーム管理者側
- https://app.diagrams.net/#G1OHVu1EuKzaTLxHLYwQ4va2VcCla28LEA  　
+ https://app.diagrams.net/#G1OHVu1EuKzaTLxHLYwQ4va2VcCla28LEA  
 ER図
  https://app.diagrams.net/#G12VL8Ry0r92MzAJx08IrReHVHCf4WA_AY  
  テーブル定義書
