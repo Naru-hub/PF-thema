@@ -38,7 +38,7 @@ ER図
  https://app.diagrams.net/#G12VL8Ry0r92MzAJx08IrReHVHCf4WA_AY  
 機能一覧  
  https://docs.google.com/spreadsheets/d/1MrtOBrShOCMLyr1-SmaSzc0_QdPnpZT7dYT13yakbOs/edit?usp=sharing  
-テーブル定義書
+テーブル定義書　　
  https://docs.google.com/spreadsheets/d/1hjwA1nsiRDuKQWgGooGXi8_SIeM5hs4N0SMtLFFnab4/edit#gid=1782002835
   
 ## チャレンジ要素一覧
