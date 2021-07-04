@@ -39,7 +39,9 @@ ER図
 機能一覧  
  https://docs.google.com/spreadsheets/d/1MrtOBrShOCMLyr1-SmaSzc0_QdPnpZT7dYT13yakbOs/edit?usp=sharing  
 テーブル定義書　　
- https://docs.google.com/spreadsheets/d/1hjwA1nsiRDuKQWgGooGXi8_SIeM5hs4N0SMtLFFnab4/edit#gid=1782002835
+ https://docs.google.com/spreadsheets/d/1hjwA1nsiRDuKQWgGooGXi8_SIeM5hs4N0SMtLFFnab4/edit#gid=1782002835  
+ アプリケーション詳細設計書　　
+ https://docs.google.com/spreadsheets/d/11Q4BocGMQEF65N4JdvuKUnt5U3S54uKAjfZg0xEMZ4Q/edit?usp=sharing
   
 ## チャレンジ要素一覧
 
